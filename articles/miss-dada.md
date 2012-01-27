@@ -5,7 +5,7 @@ date: 2012-01-14
 
 dada过完年，就可以见到我们了。
 
-<a class="fancybox" title="miss dada" href="/uploads/imgs/2012-01/IMG_0810.JPG" rel="group"><img src="/uploads/imgs/2012-01/thumbnails/IMG_0810.JPG" alt="miss dada" /></a>
-<a class="fancybox" title="miss dada" href="/uploads/imgs/2012-01/IMG_0814.JPG" rel="group"><img src="/uploads/imgs/2012-01/thumbnails/IMG_0814.JPG" alt="miss dada" /></a>
-<a class="fancybox" title="miss dada" href="/uploads/imgs/2012-01/IMG_0826.JPG" rel="group"><img src="/uploads/imgs/2012-01/thumbnails/IMG_0826.JPG" alt="miss dada" /></a>
+<a class="fancybox" title="miss dada" href="http://s3.amazonaws.com/blog.wodedada.uploads/imgs/2012-01/IMG_0810.JPG" rel="group"><img src="http://s3.amazonaws.com/blog.wodedada.uploads/imgs/2012-01/thumbnails/IMG_0810.JPG" alt="miss dada" /></a>
+<a class="fancybox" title="miss dada" href="http://s3.amazonaws.com/blog.wodedada.uploads/imgs/2012-01/IMG_0814.JPG" rel="group"><img src="http://s3.amazonaws.com/blog.wodedada.uploads/imgs/2012-01/thumbnails/IMG_0814.JPG" alt="miss dada" /></a>
+<a class="fancybox" title="miss dada" href="http://s3.amazonaws.com/blog.wodedada.uploads/imgs/2012-01/IMG_0826.JPG" rel="group"><img src="http://s3.amazonaws.com/blog.wodedada.uploads/imgs/2012-01/thumbnails/IMG_0826.JPG" alt="miss dada" /></a>
 
